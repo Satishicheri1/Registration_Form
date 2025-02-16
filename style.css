@@ -1,0 +1,25 @@
+body{
+border: 2px solid black;
+justify-content: center;
+text-align: center;
+border-radius: 20px;
+background-color: antiquewhite;
+width: 50%;
+margin-left: 300px;
+align-items: center;
+
+
+}
+.container{
+
+    background-color: rgb(63, 155, 147);
+}
+
+button{
+    background-color: rgb(107, 161, 123);
+}
+ 
+#regUserName{
+
+    background-color: rgb(240, 237, 237);
+}
